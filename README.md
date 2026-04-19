@@ -62,7 +62,7 @@ The dashboard helps businesses analyze sales performance, profit trends, custome
 
 ## 🖼️ Dashboard Preview
 
-(Add screenshots here)
+images
 
 ---
 
@@ -73,7 +73,7 @@ Retail-Sales-Dashboard/
 ├── Dashboard.pbix
 ├── dataset.csv
 ├── images/
-│   └── dashboard.png
+│   └── screenshots
 └── README.md
 
 ---
@@ -86,11 +86,6 @@ Retail-Sales-Dashboard/
 
 ---
 
-## 🌐 Live Dashboard (Optional)
-
-(Add Power BI Service link here if published)
-
----
 
 ## 💡 Learnings
 
@@ -102,6 +97,5 @@ Retail-Sales-Dashboard/
 
 ## 👤 Author
 
-Your Name
-LinkedIn: (Add link)
-GitHub: (Add link)
+Harshita Khetan
+harshitakhetan2002@gmail.com
