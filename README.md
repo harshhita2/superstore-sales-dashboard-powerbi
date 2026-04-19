@@ -62,7 +62,7 @@ The dashboard helps businesses analyze sales performance, profit trends, custome
 
 ## 🖼️ Dashboard Preview
 
-images
+[View Dashboard Images](https://github.com/harshhita2/superstore-sales-dashboard-powerbi/tree/main/images)
 
 ---
 
